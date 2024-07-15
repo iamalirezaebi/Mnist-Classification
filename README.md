@@ -1,4 +1,5 @@
 MNIST Classification Project
+
 This project involves implementing several machine learning algorithms to classify digits from the MNIST dataset. The dataset used is in the npz format. The goal is to predict and classify handwritten digits based on their images.
 
 Project Files
